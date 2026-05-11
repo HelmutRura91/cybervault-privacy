@@ -1,0 +1,7 @@
+_site/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
+
+# Cygwin / Git Bash crash dumps
+*.stackdump
